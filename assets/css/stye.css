@@ -1,0 +1,11 @@
+#me{
+    width: 350px;
+    float: left;
+    margin: 0px, 25px, 25px, 0px;
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
