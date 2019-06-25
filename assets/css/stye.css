@@ -9,6 +9,13 @@
     text-align: center;
     display: inline-block;
     width: 100%;
-    position: absolute;
+    position: fixed;
+    background-color:aliceblue;
     bottom: 0;
+    border: .05px gray solid;
+}
+#navBox{
+    width:100%;
+}
+
 }
